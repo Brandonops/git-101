@@ -15,6 +15,3 @@ things *like*  **bold**
 
 adding a second change:)
 
-
-
-# things we learned
